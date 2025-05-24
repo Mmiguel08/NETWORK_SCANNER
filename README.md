@@ -10,4 +10,4 @@ Usage: network_scanner.py [options]
 Options:
   -h, --help            show this help message and exit
   -n NETWORK, --network=NETWORK
-                        Network For scanning.
+                        Network For scanning target network.
